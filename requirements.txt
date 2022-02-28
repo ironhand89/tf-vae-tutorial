@@ -1,0 +1,58 @@
+absl-py==1.0.0
+astunparse==1.6.3
+cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+cachetools==5.0.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+flatbuffers==2.0
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1643722481604/work
+gast==0.5.3
+google-auth==2.6.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio @ file:///Users/runner/miniforge3/conda-bld/grpcio_1645230369499/work
+h5py @ file:///Users/runner/miniforge3/conda-bld/h5py_1637964045648/work
+idna==3.3
+importlib-metadata==4.11.1
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1635836816114/work
+libclang==13.0.0
+Markdown==3.3.6
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1639359043885/work
+munkres==1.1.4
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1640083125610/work
+oauthlib==3.2.0
+opt-einsum==3.3.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==1.4.1
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1644499459631/work
+protobuf==3.19.4
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+requests==2.27.1
+requests-oauthlib==1.3.1
+rsa==4.8
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1640464197365/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1644357575279/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow-macos==2.8.0
+tensorflow-metal==0.4.0
+termcolor==1.1.0
+tf-estimator-nightly==2.8.0.dev2021122109
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1635819711289/work
+typing_extensions==4.1.1
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1640031049741/work
+urllib3==1.26.8
+Werkzeug==2.0.3
+wrapt==1.13.3
+zipp==3.7.0
